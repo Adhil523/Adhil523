@@ -1,0 +1,11 @@
+NOTE
+----
+THE PROGRAM IS CASE INSENSITIVE EXCEPT FOR THE LOGIN PAGE
+You have not installed the module imdbpy
+Some features of the program will not run if the module imdbpy is not installed
+Follow the instuctions given below to install imdbpy:-
+
+Run the command prompt as administrator and type in the following command:
+	pip install imdbpy
+If it displays 'pip is not recognized',then watch the video from the link below
+	https://www.youtube.com/watch?v=zYdHr-LxsJ0
